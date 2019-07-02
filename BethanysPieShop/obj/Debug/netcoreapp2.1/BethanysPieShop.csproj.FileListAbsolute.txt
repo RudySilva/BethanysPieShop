@@ -3,7 +3,6 @@ D:\Projects\BethanysPieShop\BethanysPieShop\bin\Debug\netcoreapp2.1\BethanysPieS
 D:\Projects\BethanysPieShop\BethanysPieShop\bin\Debug\netcoreapp2.1\BethanysPieShop.runtimeconfig.dev.json
 D:\Projects\BethanysPieShop\BethanysPieShop\bin\Debug\netcoreapp2.1\BethanysPieShop.dll
 D:\Projects\BethanysPieShop\BethanysPieShop\bin\Debug\netcoreapp2.1\BethanysPieShop.pdb
-D:\Projects\BethanysPieShop\BethanysPieShop\obj\Debug\netcoreapp2.1\BethanysPieShop.csprojAssemblyReference.cache
 D:\Projects\BethanysPieShop\BethanysPieShop\obj\Debug\netcoreapp2.1\BethanysPieShop.csproj.CoreCompileInputs.cache
 D:\Projects\BethanysPieShop\BethanysPieShop\obj\Debug\netcoreapp2.1\BethanysPieShop.RazorAssemblyInfo.cache
 D:\Projects\BethanysPieShop\BethanysPieShop\obj\Debug\netcoreapp2.1\BethanysPieShop.RazorAssemblyInfo.cs
@@ -17,7 +16,14 @@ D:\Projects\BethanysPieShop\BethanysPieShop\bin\Debug\netcoreapp2.1\BethanysPieS
 D:\Projects\BethanysPieShop\BethanysPieShop\obj\Debug\netcoreapp2.1\BethanysPieShop.TagHelpers.input.cache
 D:\Projects\BethanysPieShop\BethanysPieShop\obj\Debug\netcoreapp2.1\BethanysPieShop.TagHelpers.output.cache
 D:\Projects\BethanysPieShop\BethanysPieShop\obj\Debug\netcoreapp2.1\BethanysPieShop.RazorCoreGenerate.cache
-D:\Projects\BethanysPieShop\BethanysPieShop\obj\Debug\netcoreapp2.1\Razor\View\Home\Index.g.cshtml.cs
 D:\Projects\BethanysPieShop\BethanysPieShop\obj\Debug\netcoreapp2.1\BethanysPieShop.RazorTargetAssemblyInfo.cs
 D:\Projects\BethanysPieShop\BethanysPieShop\obj\Debug\netcoreapp2.1\BethanysPieShop.Views.pdb
 D:\Projects\BethanysPieShop\BethanysPieShop\obj\Debug\netcoreapp2.1\BethanysPieShop.csproj.CopyComplete
+D:\Projects\BethanysPieShop\BethanysPieShop\obj\Debug\netcoreapp2.1\Razor\Views\Home\Index.g.cshtml.cs
+D:\Projects\BethanysPieShop\BethanysPieShop\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_Layout.g.cshtml.cs
+D:\Projects\BethanysPieShop\BethanysPieShop\obj\Debug\netcoreapp2.1\Razor\Views\_ViewStart.g.cshtml.cs
+D:\Projects\BethanysPieShop\BethanysPieShop\obj\Debug\netcoreapp2.1\Razor\Views\Home\Details.g.cshtml.cs
+D:\Projects\BethanysPieShop\BethanysPieShop\obj\Debug\netcoreapp2.1\Razor\Views\_ViewImports.g.cshtml.cs
+D:\Projects\BethanysPieShop\BethanysPieShop\obj\Debug\netcoreapp2.1\BethanysPieShop.csprojAssemblyReference.cache
+D:\Projects\BethanysPieShop\BethanysPieShop\obj\Debug\netcoreapp2.1\Razor\Views\Feedback\Index.g.cshtml.cs
+D:\Projects\BethanysPieShop\BethanysPieShop\obj\Debug\netcoreapp2.1\Razor\Views\Feedback\FeedbackComplete.g.cshtml.cs
